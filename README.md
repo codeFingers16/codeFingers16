@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Aziz Rayners
 
-<!--
-**codeFingers16/codeFingers16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Valmora](https://valmora.co.za) — Web Design Agency, Cape Town  
+CS Student | JavaScript · React · Node.js · TypeScript
 
-Here are some ideas to get you started:
+## What I'm Building
+Valmora helps Cape Town small businesses grow online with modern, 
+high-converting websites built with AI-powered development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🏢 [Valmora](https://valmora.co.za) — Web agency website
+- 🔧 [AR Maintenance Solutions](https://armaintenancesolutions.co.za) — Client project
+
+## Connect
+- 🌐 [valmora.co.za](https://valmora.co.za)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aziz-rayners/)
